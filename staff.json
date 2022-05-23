@@ -1,0 +1,32 @@
+{
+  "smith": {
+    "name": "Alice Smith",
+    "email": "a.smith@charlesworth.com",
+    "location": "Building 1, room 201",
+    "title": "student support"
+  },
+  "cole": {
+    "name": "Chris Cole",
+    "email": "c.cole@charlesworth.com",
+    "location": "Building 3, room 107",
+    "title": "module leader"
+  },
+  "adams": {
+    "name": "Martin Adams",
+    "email": "m.adams@charlesworth.com",
+    "location": "Building 2, room 512",
+    "title": "finance"
+  },
+  "anderson": {
+    "name": "John Anderson",
+    "email": "j.anderson@charlesworth.com",
+    "location": "Building 1, room 331",
+    "title": "international student support"
+  },
+  "baker": {
+    "name": "David Baker",
+    "email": "d.baker@charlesworth.com",
+    "location": "Building 5, room 117",
+    "title": "lecturer"
+  }
+}
